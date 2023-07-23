@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @larsycoding
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning Linux
+- 💞️ I’m looking to collaborate on a Scripting Website
