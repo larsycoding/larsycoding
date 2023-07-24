@@ -2,3 +2,4 @@
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on a Scripting Website
+- Email 131176320+larsycoding@users.noreply.github.com
